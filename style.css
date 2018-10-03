@@ -1,0 +1,41 @@
+body {
+	background-image: url(fantasyart-1538571690376-4087.jpg);
+	background-size: ;
+	background-repeat: no-repeat;
+	flex-wrap: wrap;
+}
+
+h1, p {
+	
+	text-align: center;
+}
+
+h1 {
+	color: white;
+	padding-top: 500px;
+}
+
+p {
+	color: rgba(0, 0, 0, 0);
+}
+
+p:hover {
+	color: white;
+}
+
+.circle {
+	height: 40px;
+	width: 140px;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	}
+
+.pos {
+	flex-wrap: wrap;
+	margin-left: 45%;
+}
+
+.btn {
+	cursor: pointer;
+	white-space: normal;
+}
